@@ -1,4 +1,4 @@
 const React = require('react');
-const TestComponent = require('./TestComponent');
+const MapComponent = require('./MapComponent');
 
-React.render(<TestComponent/>, document.getElementById('content'));
+React.render(<MapComponent/>, document.getElementById('content'));
