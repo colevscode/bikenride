@@ -5,7 +5,7 @@ const MapObject = React.createClass({
   render() {
     return (
       <MapComponent 
-        startAddr="348 Baltic St, Brooklyn, NY"
+        startAddr="Brooklyn, NY"
         startZoom={10}
 
       />
